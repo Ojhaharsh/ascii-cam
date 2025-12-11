@@ -47,6 +47,24 @@ python realtime_ascii.py
 | **T** | Toggle theme |
 | **H** | Show help |
 | **Q/ESC** | Exit |
+
+## 📦 Installation
+
+1. **Clone repository:**
+```bash
+git clone https://github.com/yourusername/ascii-cam.git
+cd ascii-cam
+```
+
+2. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+3. **Run application:**
+```bash
+python dual_window_ascii.py  # For gesture control
+python realtime_ascii.py     # For full features
 ```
 
 ## ⚙️ Requirements
@@ -79,6 +97,10 @@ python realtime_ascii.py
 - Reduce frame width (170-200)
 - Close other camera applications
 
+## 📄 License
+
+MIT License - feel free to use and modify!
+
 ---
 
-**Made with ❤️**
+**Made with ❤️ for ASCII art enthusiasts**
