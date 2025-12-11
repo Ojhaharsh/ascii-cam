@@ -1,0 +1,17 @@
+# Real-Time ASCII Video Converter Dependencies
+# Install with: pip install -r requirements.txt
+
+# Computer Vision and Video Processing
+opencv-python>=4.8.0
+
+# Hand Gesture Detection
+mediapipe>=0.10.0
+
+# Array Operations and Mathematical Functions
+numpy>=1.21.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Keyboard Input Handling
+keyboard>=0.13.5
